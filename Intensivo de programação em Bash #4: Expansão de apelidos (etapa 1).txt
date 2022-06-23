@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=msoeOAjqN48&t=2s
+
+Apelido: uma var registrada no sistema, onde o valor dessa var é um comando
+
+alias nome='echo Mateus Pinna'
+
+nome curte Bash
